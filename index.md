@@ -4,7 +4,7 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-''' python
-Msg = "Helloq"
-print (Mag)
-'''
+``` python
+Msg = "Hello"
+print (Msg)
+```
